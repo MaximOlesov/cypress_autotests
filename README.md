@@ -1,4 +1,4 @@
-<h1 align="center">🤖🧪Автотесты на фреймворке Cypress</h1>
+<h1 align="center">🤖🧪 Автотесты UI • JavaScript + Cypress</h1>
 
 <p align="center">
 Публичный проект: https://login.qa.studio/ 
