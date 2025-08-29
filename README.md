@@ -1,4 +1,4 @@
-<h1 align="center">Автотесты на фреймворке Cypress</h1>
+<h1 align="center">🤖🧪Автотесты на фреймворке Cypress</h1>
 
 <p align="center">
 Публичный проект: https://login.qa.studio/ 
@@ -10,15 +10,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="status" />
-  <img src="https://img.shields.io/badge/python-3.9+-blue" alt="python" />
-  <img src="https://img.shields.io/badge/QA-friendly-orange" alt="qa" />
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge" alt="status" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/QA-Automation-orange?style=for-the-badge&logo=testing-library&logoColor=white" alt="Automation" />
 </p>
 
 
 ---
 
-## Тест-кейсы, которые автоматизировал
+## ✅ Тест-кейсы, которые автоматизировал
 * Авторизация с верным логином и верным паролем  
 * Авторизация с верным логином и неверным паролем  
 * Авторизация с неверным логином и верным паролем  
@@ -26,7 +27,7 @@
 * Проверка флоу восстановления пароля  
 * Проверка логики нижнего регистра символов
 
-## Детали реализации
+## ⚙️ Детали реализации
 
 1. baseUrl вынесен в переменные конфига
 ![image](https://raw.githubusercontent.com/MaximOlesov/cypress_autotests/refs/heads/main/cypress/screenshots/baseUrl.png)
@@ -42,8 +43,9 @@
 
 ## 🛠 Стек технологий
 
-* JavaScript  
-* Cypress
+* 🟨 JavaScript  
+* 🌐 Cypress
+* 🤖 Automation Testing
 
 ## 🚀 Локальный запуск через Cypress UI
 1. Скачать проект и открыть в терминале.
@@ -54,10 +56,10 @@
 6. Выбрать в Cypress UI E2E тестирование и браузер Google Chrome
 7. Выбрать спеку my_autotest
 
-Ожидаемый результат: получим отчет о прохождении тестов.
+## 📊 Ожидаемый результат: получим отчет о прохождении тестов
 ![image](https://raw.githubusercontent.com/MaximOlesov/cypress_autotests/refs/heads/main/cypress/screenshots/my_autotest.cy.js/my_autotest.png)
 
-## Локальный запуск тестов из терминала
+## 💻 Локальный запуск тестов из терминала
 1. Скачать проект
 2. Перейти в терминале в директорию проекта
 2. Выполнить команду:
