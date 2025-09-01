@@ -41,7 +41,7 @@
 4. Каждая страница описана в формате объекта с локаторами
 ![image](https://raw.githubusercontent.com/MaximOlesov/cypress_autotests/refs/heads/main/cypress/screenshots/locators.png)
 
-## 🛠 Стек технологий
+## ⚙️ Стек технологий
 
 * 🟨 JavaScript  
 * 🌐 Cypress
